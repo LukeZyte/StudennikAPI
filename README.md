@@ -1,0 +1,2 @@
+# StudennikAPI
+API for Studennik
